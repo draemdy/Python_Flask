@@ -16,5 +16,5 @@
         "titleBar.inactiveForeground": "#e7e7e799"
     },
     "peacock.color": "#ff3d00",
-    "python.pythonPath": "env/bin/python3.9"
+    "python.pythonPath": "/usr/local/bin/python3"
 }
