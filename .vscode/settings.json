@@ -16,5 +16,10 @@
         "titleBar.inactiveForeground": "#e7e7e799"
     },
     "peacock.color": "#ff3d00",
-    "python.pythonPath": "/usr/local/bin/python3"
+    "python.pythonPath": "env/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.pylintArgs": [
+        "--load-plugins",
+        "pylint_flask_sqlalchemy",
+    ]
 }
